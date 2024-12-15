@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5765","user sign up successfully","","Sun Dec 15 22:32:19 EET 2024","passed","Sun Dec 15 22:32:25 EET 2024","","F01_sign up | Users can use the sign up functionality to create  their accounts","user sign up successfully",""
+"","24409","Add and purchase two products","","Sun Dec 15 22:32:29 EET 2024","passed","Sun Dec 15 22:32:53 EET 2024","","Purchase Products","Add and purchase two products",""
+"","3493","User log in successfully","","Sun Dec 15 22:32:25 EET 2024","passed","Sun Dec 15 22:32:29 EET 2024","","F02_Login | Users can use the login functionality successfully","User log in successfully",""
